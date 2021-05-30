@@ -42,6 +42,21 @@
     </tr>
     <tr>
       <td>
+        <a target="_blank" href="https://github.com/akaspanion/keyboard">
+          <b>Piano Keyboard</b>
+        </a>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/akaspanion/keyboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/akaspanion/keyboard?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/akaspanion/keyboard?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a target="_blank" href="https://akaspanion.github.io/keyboard/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a target="_blank" href="https://github.com/akaspanion/music-app">
           <b>Music player PWA</b>
         </a>
