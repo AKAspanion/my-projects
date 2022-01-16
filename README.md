@@ -1,4 +1,56 @@
-### List of all my projects
+## List of all my projects
+
+### Freelance projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Description</b></td>
+      <td><b>Link</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          <b>Dakoza</b>
+      </td>
+      <td>Dakoza is an Retail Automation Software.<br/> Built the application from ground up using React and Electron.</td>
+      <td>
+        <a target="_blank" href="https://dakoza.io/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <a target="_blank" href="https://github.com/AKAspanion/tspike">
+          <b>Clone of Tigerspike</b>
+        </a>
+      </td>
+      <td>Built the Tigerspike clone from ground up using NextJS.</td>
+      <td>
+        <a target="_blank" href="https://tspike.netlify.app/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/akaspanion/ufi">
+          <b>Clone of unifiedinfotech.com</b>
+        </a>
+      </td>
+      <td>Built the unifiedinfotech.com clone from ground up using NextJS.</td>
+      <td>
+        <a target="_blank" href="https://ufi.netlify.app/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+### OSS projects
 <table>
   <thead align="center">
     <tr border: none;>
@@ -297,21 +349,6 @@
     </tr>
     <tr>
       <td>
-        <a target="_blank" href="https://github.com/akaspanion/ufi">
-          <b>Clone of unifiedinfotech.com</b>
-        </a>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/akaspanion/ufi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/akaspanion/ufi?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/akaspanion/ufi?style=flat-square&labelColor=343b41"/></td>
-      <td>
-        <a target="_blank" href="https://ufi.netlify.app/">
-          <b>Show ↗️</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <a target="_blank" href="https://github.com/akaspanion/wesecureapp-test">
           <b>Login/Signup demo</b>
         </a>
@@ -328,12 +365,27 @@
     <tr>
       <td>
         <a target="_blank" href="https://github.com/akaspanion/collegedunia-test">
-          <b>Pagination demo</b>
+          <b>Theme switch demo</b>
         </a>
       </td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/akaspanion/collegedunia-test?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/akaspanion/collegedunia-test?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/akaspanion/collegedunia-test?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a target="_blank" href="https://teams-test.netlify.app/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/akaspanion/teams-test">
+          <b>Pagination demo</b>
+        </a>
+      </td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/akaspanion/teams-test?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/akaspanion/teams-test?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/akaspanion/teams-test?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a target="_blank" href="https://akaspanion.github.io/collegedunia-test/">
           <b>Show ↗️</b>
