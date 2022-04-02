@@ -23,13 +23,11 @@
     </tr>
      <tr>
       <td>
-        <a target="_blank" href="https://github.com/AKAspanion/tspike">
-          <b>Clone of Tigerspike</b>
-        </a>
+          <b>MORAWA & DEMENY</b>
       </td>
-      <td>Built the Tigerspike clone from ground up using NextJS.</td>
+      <td>Built the MORAWA & DEMENY website from ground up using NextJS.</td>
       <td>
-        <a target="_blank" href="https://tspike.netlify.app/">
+        <a target="_blank" href="https://demenysystems.com/">
           <b>Show ↗️</b>
         </a>
       </td>
