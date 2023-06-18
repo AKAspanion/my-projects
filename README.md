@@ -130,7 +130,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/akaspanion/zoom-clone?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/akaspanion/zoom-clone?style=flat-square&labelColor=343b41"/></td>
       <td>
-        <a target="_blank" href="https://spanion-video-chat.herokuapp.com/">
+        <a target="_blank" href="https://spanion-chat-app-service.onrender.com/">
           <b>Show ↗️</b>
         </a>
       </td>
