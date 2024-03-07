@@ -12,9 +12,35 @@
   <tbody>
     <tr>
       <td>
+        <a target="_blank" href="https://github.com/AKAspanion/splitify">
+          <b>Splitify</b>
+        </a>
+      </td>
+      <td>A free alternative to the popular app Splitwise.</td>
+      <td>
+        <a target="_blank" href="https://splitify.spanion.in/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a target="_blank" href="https://github.com/AKAspanion/streaming-server">
+          <b>Video Streaming Server</b>
+        </a>
+      </td>
+      <td>A media server to stream your video files in a local network. Clone of https://emby.media/</td>
+      <td>
+        <a target="_blank" href="https://akaspanion.github.io/streaming-server/">
+          <b>Show ↗️</b>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
           <b>Dakoza</b>
       </td>
-      <td>Dakoza is an Retail Automation Software.<br/> Built the application from ground up using React and Electron.</td>
+      <td>Dakoza is a Retail Automation Software.<br/> Built the application from the ground up using React and Electron.</td>
       <td>
         <a target="_blank" href="https://dakoza.io/">
           <b>Show ↗️</b>
@@ -38,7 +64,7 @@
           <b>Clone of unifiedinfotech.com</b>
         </a>
       </td>
-      <td>Built the unifiedinfotech.com clone from ground up using NextJS.</td>
+      <td>Built the unifiedinfotech.com clone from the ground up using NextJS.</td>
       <td>
         <a target="_blank" href="https://ufi.netlify.app/">
           <b>Show ↗️</b>
